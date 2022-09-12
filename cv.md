@@ -70,18 +70,11 @@
 
 ## About Me
 
-### Novice frontend developer.
-
-### Successfully completed courses at TeachMeSkills, as a graduation project I developed a clone of the Unsplash gallery (https://draenkov.github.io/unsplashClone/).
-
-### I chose to change my specialization, because today the economist is a very unclaimed profession. All business processes are becoming automated and value of manual work is going down.
-
-### Why did I choose frontend? Because it’s beautiful. I can’t draw, but I really enjoy watching and using at work awesome modern UIs and I think I have a sense of style.
-
-### After the courses I continue self-education: improving my graduation project, watching interviews on youtube and learning algorithms
-
-### In my free time I enjoy playing drums and doing sports (swimming, tennis, gym). It provides me with a good balance in my life.
-
-### Non-conflict, well organized, having a rational view of things.
-
-### Considering all offers, including internships and relocation.
+Novice frontend developer.
+Successfully completed courses at TeachMeSkills, as a graduation project I developed a clone of the Unsplash gallery (https://draenkov.github.io/unsplashClone/).
+I chose to change my specialization, because today the economist is a very unclaimed profession. All business processes are becoming automated and value of manual work is going down.
+Why did I choose frontend? Because it’s beautiful. I can’t draw, but I really enjoy watching and using at work awesome modern UIs and I think I have a sense of style.
+After the courses I continue self-education: improving my graduation project, watching interviews on youtube and learning algorithms
+In my free time I enjoy playing drums and doing sports (swimming, tennis, gym). It provides me with a good balance in my life.
+Non-conflict, well organized, having a rational view of things.
+Considering all offers, including internships and relocation.
