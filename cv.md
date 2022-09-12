@@ -21,7 +21,6 @@
 - drayankou@gmail.com
 - https://www.linkedin.com/in/drayankou
 - https://github.com/draenkov
-- https://draenkov.github.io/rsschool-cv/cv
 
 ## Education
 
