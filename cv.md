@@ -71,9 +71,9 @@
 
 Novice frontend developer.
 Successfully completed courses at TeachMeSkills, as a graduation project I developed a clone of the Unsplash gallery (https://draenkov.github.io/unsplashClone/).
-I chose to change my specialization, because today the economist is a very unclaimed profession. All business processes are becoming automated and value of manual work is going down.
-Why did I choose frontend? Because it’s beautiful. I can’t draw, but I really enjoy watching and using at work awesome modern UIs and I think I have a sense of style.
-After the courses I continue self-education: improving my graduation project, watching interviews on youtube and learning algorithms
+Yes, I chose to change my specialization. After 4 years of working as an economist, I realized that I was not interested in that. I always complete tasks perfectly and on time, but I don't enjoy it.
+Why did I choose frontend? Because it’s beautiful. I can’t draw, but I really enjoy using at work awesome modern UIs. I like to experiment and see results immediately.
+After the courses I continue self-education: improving my graduation project and learning algorithms. Also I started studying at RS School.
 In my free time I enjoy playing drums and doing sports (swimming, tennis, gym). It provides me with a good balance in my life.
 Non-conflict, well organized, having a rational view of things.
 Considering all offers, including internships and relocation.
